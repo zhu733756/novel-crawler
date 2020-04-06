@@ -1,0 +1,4 @@
+.vs
+.scrapy
+__pycache__
+data/
